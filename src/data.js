@@ -12,14 +12,14 @@ const data = [
         id: 2,
         pic: "https://github.com/Prithviraj-debug/CountDown/blob/main/cd.png?raw=true",
         name: "CountDown App",
-        info: "https://adoring-feynman-11d273.netlify.app/"
+        link: "https://adoring-feynman-11d273.netlify.app/"
     },
     
     {
         id: 3,
         pic: "https://github.com/Prithviraj-debug/3dAnimationJS/blob/main/3d.png?raw=true",
         name: "JavaScript 3D Animation",
-        info: "https://happy-haibt-363520.netlify.app/"
+        link: "https://happy-haibt-363520.netlify.app/"
     },
     
     {
@@ -33,14 +33,14 @@ const data = [
         id: 5,
         pic: "https://github.com/Prithviraj-debug/microsoft-homepage-clone-2021/blob/main/ms.png?raw=true",
         name: "Microsoft Homepage",
-        info: "https://loving-hermann-e87f65.netlify.app/"
+        link: "https://loving-hermann-e87f65.netlify.app/"
     },
     
     {
         id: 6,
         pic: "https://github.com/Prithviraj-debug/rgbGame/blob/main/rgb.png?raw=true",
         name: "RGB Game",
-        info: "https://silly-minsky-026056.netlify.app/"
+        link: "https://silly-minsky-026056.netlify.app/"
     },
     
     {
