@@ -50,6 +50,13 @@ const data = [
         link: "https://infallible-snyder-f26bce.netlify.app/"
     },
     
+    {
+        id: 8,
+        pic: "https://github.com/Prithviraj-debug/QRgenerator/blob/master/Screenshot%202021-08-15%20123653.png?raw=true",
+        name: "QR Code Generator",
+        link: "https://keen-khorana-0bde35.netlify.app/"
+    }
+    
     // {
     //     id: ,
     //     pic: "",
