@@ -57,6 +57,13 @@ const data = [
         link: "https://keen-khorana-0bde35.netlify.app/"
     }
     
+    {
+        id: 9,
+        pic: "https://github.com/Prithviraj-debug/Calculator/blob/master/Screenshot%202022-03-06%20122120.png?raw=true",
+        name: "Calculator",
+        link: "https://nifty-jepsen-1a958e.netlify.app/"
+    }
+    
     // {
     //     id: ,
     //     pic: "",
